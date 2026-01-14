@@ -1,96 +1,96 @@
-<h1 align="left">👋 Hi there</h1>
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=750&lines=Hey+there+👋;My+name+is+Anubhav+Singh+Pathania;Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
+</h1>
 
-<p>
-I’m <b>Anubhav Singh Pathania</b>, an MCA student and aspiring Data Scientist with a strong interest in
-machine learning, data analysis, and AI-driven systems.
-I enjoy working on real-world problems using structured ML pipelines, clean engineering practices,
-and modern AI tools.
+<p align="center">
+🎓 MCA Student @ Thapar Institute of Engineering & Technology <br>
+🤖 Passionate about Machine Learning, Data Science, and AI-driven systems
 </p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80" width="85%" />
+</p>
+
+---
+
+## 🧠 Overview
+
+I am an aspiring Data Scientist with a strong foundation in machine learning, data analysis,
+and applied AI systems.  
+I enjoy working on real-world problems using **structured ML pipelines, clean engineering practices,
+and scalable data-driven solutions**.
+
+My interests lie in building practical systems that bridge **data, machine learning, and modern AI tools**
+to deliver meaningful outcomes.
 
 ---
 
 ## 🚀 Expertise
 
-I work primarily on applied machine learning and data-centric problem solving.  
-My experience includes building end-to-end ML workflows — from data preprocessing and feature engineering
-to model evaluation and deployment-ready pipelines.
-
-I am particularly interested in:
-- Translating raw data into meaningful insights
-- Designing scalable and maintainable ML solutions
-- Exploring NLP, RAG-based systems, and applied AI use cases
-
-Alongside academics, I actively build projects to strengthen my understanding of practical machine learning
-and software engineering fundamentals.
+- Applied machine learning workflows including data preprocessing, feature engineering, model evaluation, and deployment readiness  
+- Strong understanding of supervised and unsupervised learning concepts with hands-on implementation experience  
+- Experience working with NLP and retrieval-based AI systems using modern frameworks  
+- Focus on writing clean, maintainable, and scalable Python code for data-centric applications  
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧑‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
 ### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ---
 
 ### 🤖 AI & NLP
-![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-1B1F23?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B8BBE?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-1B1F23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge"/>
+</p>
 
 ---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-## 📌 Selected Projects
-
-**ChatMate**  
-RAG-based chatbot with document ingestion and optimized vector retrieval  
-🔗 https://github.com/21anubhav/ChatMate  
-
-**Wildfire Prediction System (India)**  
-Late-fusion ML system using weather, DEM, land cover, and GIS datasets  
-
-**Motion_play**  
-Real-time hand gesture controlled system using OpenCV and MediaPipe  
-🔗 https://github.com/21anubhav/Motion_play  
-
----
-
-## 📊 GitHub Overview
-<img src="https://github-readme-stats.vercel.app/api?username=21anubhav&show_icons=true&theme=github_dark" />
-
----
-
-## 🌐 Socials
+## 🌐 Connect With Me
+<p>
 <a href="https://linkedin.com/in/anubhavsinghpathania">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/21anubhav">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 ---
 
-<i>“Focused on learning, building, and growing through real-world problem solving.”</i>
+✨ <i>Focused on continuous learning, problem solving, and building impactful AI-driven solutions.</i>
