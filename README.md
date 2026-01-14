@@ -1,97 +1,97 @@
-# Hey there 👋  
-## I'm Anubhav Singh Pathania  
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there+👋;I+am+Anubhav+Singh+Pathania;Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
+</h1>
 
-🎓 MCA Student @ Thapar Institute of Engineering & Technology  
-💻 Aspiring Data Scientist | Machine Learning & AI Enthusiast  
-
-I work on applied machine learning, data analysis, and AI-driven systems.  
-My focus is on building clean, scalable solutions for real-world problems using data and modern ML techniques.
-
----
-
-## 🔧 Technical Skills
-
-### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+<p align="center">
+🎓 MCA Student @ Thapar Institute of Engineering & Technology <br>
+💻 Passionate about Machine Learning, Data Science, and AI-driven systems
+</p>
 
 ---
 
-### 📊 Data Analysis & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
+## 🧠 About Me
+I work on applied machine learning, data analysis, and AI-powered applications.  
+My focus is on solving real-world problems using **clean code, structured ML pipelines, and scalable data-driven solutions**.
 
 ---
 
-### 🤖 AI & NLP
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+## 🧑‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+## 📊 Libraries & Frameworks
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🤖 AI, NLP & Generative AI
+<p>
+<img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-1B1F23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge"/>
+</p>
 
-### 🔹 ChatMate
-- Built a **RAG-based chatbot** with document ingestion and vector retrieval
-- Optimized retrieval pipelines to achieve **sub-200ms response times**
-- Designed a scalable backend using **SQLAlchemy ORM** for session and metadata management
+---
 
+## ☁️ Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **ChatMate**  
+RAG-based chatbot with document ingestion and optimized vector retrieval  
 🔗 https://github.com/21anubhav/ChatMate  
 
----
+🔹 **Wildfire Prediction System (India)**  
+Late-fusion ML system using weather, DEM, land cover, and GIS data  
 
-### 🔹 Wildfire Prediction System (India)
-- Developed a **late-fusion ensemble system** using heterogeneous geospatial datasets
-- Generated continuous wildfire risk scores under sparse data conditions
-- Focused on real-world deployment constraints without strict spatial alignment
-
----
-
-### 🔹 Motion_play
-- Built a **computer vision-based hand gesture control system** using OpenCV and MediaPipe
-- Enabled real-time gesture-based interaction with multiple games via Python
-
+🔹 **Motion_play**  
+Real-time hand gesture–controlled game system using OpenCV & MediaPipe  
 🔗 https://github.com/21anubhav/Motion_play  
 
 ---
 
-## 🎓 Education
-
-- **Master of Computer Applications (MCA)**  
-  Thapar Institute of Engineering & Technology | CGPA: 8.15  
-
-- **Bachelor of Computer Applications (BCA)**  
-  Guru Gobind Singh Indraprastha University | CGPA: 8.6  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=21anubhav&show_icons=true&theme=default"/>
+</p>
 
 ---
 
-## 📜 Certifications
-- Oracle – Data Science Professional  
-- IBM – RAG & Agentic AI Professional  
-- AWS Fundamentals  
-- RAG Bootcamp (LangChain, LangGraph, LangSmith)
+## 🔗 Connect With Me
+<p>
+<a href="https://linkedin.com/in/anubhavsinghpathania">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/21anubhav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anubhavsinghpathania)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/21anubhav)
-
----
-
-⭐ Feel free to explore my repositories and connect!
+⭐ *Always open to learning, building, and collaborating on data-driven projects.*
