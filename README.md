@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there+👋;I+am+Anubhav+Singh+Pathania;Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there+👋;I+am+Anubhav+Singh+Pathania; Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
 </h1>
 
 <p align="center">
