@@ -1,6 +1,6 @@
 <!-- ================= ANIMATED HEADING ================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=800&lines=Hey+there+👋;My+name+is+Anubhav+Singh+Pathania;Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=820&lines=Hey+there+👋;My+name+is+Anubhav+Singh+Pathania;Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast" />
 </h1>
 
 <p align="center">
@@ -8,14 +8,14 @@
 🤖 Machine Learning • Data Science • Applied AI
 </p>
 
-<!-- ================= BANNER IMAGE ================= -->
+<!-- ================= WALLPAPER IMAGE ================= -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1600&q=80" width="90%" />
+  <img src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" width="90%" />
 </p>
 
 ---
 
-<h2>😎 About Me</h2>
+<h2>🧠 Overview</h2>
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="260"/>
 
@@ -23,9 +23,18 @@ I am an aspiring Data Scientist with a strong foundation in machine learning,
 data analysis, and AI-driven systems.
 
 - 🚀 Interested in solving real-world problems using data  
-- 🧩 Focused on clean ML pipelines and scalable solutions  
+- 🧩 Focused on structured ML pipelines and scalable solutions  
 - 📚 Continuous learner with strong CS fundamentals  
-- ⚙️ Enjoy building practical AI-powered applications  
+- ⚙️ Enjoy building clean, maintainable, and practical AI applications  
+
+---
+
+## 🚀 Expertise
+
+- Applied machine learning workflows including data preprocessing, feature engineering, and model evaluation  
+- Strong understanding of supervised and unsupervised learning concepts  
+- Experience with NLP and retrieval-based AI systems  
+- Emphasis on clean Python code and reproducible ML pipelines  
 
 ---
 
@@ -61,10 +70,13 @@ data analysis, and AI-driven systems.
 <a href="https://linkedin.com/in/anubhavsinghpathania">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+<a href="mailto:anubhav.pathania21@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://github.com/21anubhav">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-✨ <i>Focused on learning, building, and growing through data and AI.</i>
+✨ <i>Focused on continuous learning, problem solving, and building impactful AI-driven solutions.</i>
